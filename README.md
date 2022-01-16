@@ -4,6 +4,16 @@ Overall, in this project, we first consider multiple types of embeddings such as
 
 All the server files are uploaded on Google Drive [here](https://drive.google.com/drive/folders/1T-dE2tzF6iZDcDnaAmJeWERV-d3QwAk8?usp=sharing)
 
+## Final GDrive Datasets and Results
+
+Most of the results mentioned in the paper are derived from csv sheets generated from the Retrofitting notebook. The final versions of these results sheets can be found on Google Drive [here](https://drive.google.com/drive/folders/1akHrElVef2JJS7_m3oWxtSlqAISceIAY?usp=sharing)
+
+Other files used can be found here:
+
+* [Embedding Datasets](https://drive.google.com/drive/folders/1W7S-v2vVKHyLTqi3cgxiOJR7-_c2LG5j?usp=sharing) - Ignore the files in the folders
+* [Basis Datasets](https://drive.google.com/drive/folders/19poqPcXbLjSl5PbYogMVUWneiRb-81XO?usp=sharing)
+* [Evaluation Benchmark Datasets](https://drive.google.com/drive/folders/1_u2MqXzBiUSMPjWH5GRmp7RP2FUYYxf1?usp=sharing)
+
 ## [Embeddings Generation](https://github.com/usc-isi-i2/wd-similarity/blob/main/Embeddings%20Generation.ipynb)
 
 In this notebook, we generate embeddings using ComplEx, Transe, lexicalized properties, abstract, H, A, S, labels only, labels + descriptions, concatenated embeddings. In this notebook, we also generate direct similarity scores for pairs of nodes in evaluation benchmark datasets based on class, JC, topSim for direct evaluation in the Retrofitting notebook.
