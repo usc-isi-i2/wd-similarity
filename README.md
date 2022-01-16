@@ -1,4 +1,4 @@
-# wd-similarity
+# Similarity Project
 
 Overall, in this project, we first consider multiple types of embeddings such as ComplEx, Transe, Abstract, Lexicalized embeddings and so on. Then, we use different sets of basis datasets for retrofitting these embeddings (bringing the neighbouring nodes closer to each other). We then evaluate the original and retrofitted embeddings on various evaluation benchmark datasets.
 
@@ -39,3 +39,4 @@ Datasets Used:
 * [Wikidata DWD v2](https://drive.google.com/drive/u/3/folders/1OIZegxxrs_Hv2ZhDsSO-zLVARCR60P01)
 * [Sitelinks from Wikidata 2020-12-08](https://drive.google.com/drive/u/3/folders/1qbbgjo7pddMdDvQzOSeSaL6lYwj_f5gi)
 
+# Analogical Transfer Learning Project
