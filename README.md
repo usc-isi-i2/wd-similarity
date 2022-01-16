@@ -14,7 +14,7 @@ In the basis notebook, we generate the basis datasets using 2 relations - parent
 
 ## [Evaluation Datasets](https://github.com/usc-isi-i2/wd-similarity/blob/main/Evaluation%20Datasets%20Generation.ipynb)
 
-In this notebook, we generate the evaluation benchmark datasets on which we evaluate our embeddings performance based on similarity both before and after retrofitting wherever applicable. We generate benchmarks for Wordsim353 (Annotated), DBPedia sourced datasets (MC 30, RG 65), ConceptNet, Wiki-CS but go on to using Wordsim and DBPedia ones only in the Retrofitting notebook.
+In this notebook, we generate the evaluation benchmark datasets on which we evaluate our embeddings performance based on similarity both before and after retrofitting wherever applicable. We generate benchmarks for Wordsim353 (Annotated), DBPedia sourced datasets (MC 30, RG 65), ConceptNet, Wiki-CS but go on to using Wordsim and DBPedia ones only in the Retrofitting notebook. In the [ConcepNet Evaluation Dataset Exploration notebook](https://github.com/usc-isi-i2/wd-similarity/blob/main/ConceptNet%20Evaluation%20Dataset%20Exploration.ipynb), we just explore the ConceptNet dataset downloaded but the main file generation for our evaluation purpose is done in the main Evaluation Datasets notebook.
 
 ## [Retrofitting using Master Datasets](https://github.com/usc-isi-i2/wd-similarity/blob/main/Retrofitting%20using%20Master%20datasets.ipynb)
 
