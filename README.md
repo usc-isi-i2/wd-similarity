@@ -39,4 +39,10 @@ Datasets Used:
 * [Wikidata DWD v2](https://drive.google.com/drive/u/3/folders/1OIZegxxrs_Hv2ZhDsSO-zLVARCR60P01)
 * [Sitelinks from Wikidata 2020-12-08](https://drive.google.com/drive/u/3/folders/1qbbgjo7pddMdDvQzOSeSaL6lYwj_f5gi)
 
+Project Draw.IO files stored on Google Drive [here](https://drive.google.com/drive/u/3/folders/1T4NrMo7TxroIq5flWBWL5nAaFm6-XWwb)
+
 # Analogical Transfer Learning Project
+
+All details on this project documented [here](https://docs.google.com/document/d/1YUFsoFA7nUuUASPujXDjYSFlB_gvDmOLrrqXXtctbR4/edit?usp=sharing) and the related files are stored [here](https://drive.google.com/drive/u/3/folders/1mDnTKXSBdBMQ9FDyQc0F2mN4T9gJRkiY)
+
+Updated analogy language model code can be found [here](https://github.com/kartik2112/analogy-language-model)
