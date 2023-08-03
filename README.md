@@ -16,7 +16,7 @@ Other files used can be found here:
 
 ## [Embeddings Generation](https://github.com/usc-isi-i2/wd-similarity/blob/main/Embeddings%20Generation.ipynb)
 
-In this notebook, we generate embeddings using ComplEx, Transe, lexicalized properties, abstract, H, A, S, labels only, labels + descriptions, concatenated embeddings. In this notebook, we also generate direct similarity scores for pairs of nodes in evaluation benchmark datasets based on class, JC, topSim for direct evaluation in the Retrofitting notebook.
+In this notebook, we generate embeddings using ComplEx, Transe, lexicalized properties, abstract, H, A, S, labels only, labels + descriptions, and concatenated embeddings. In this notebook, we also generate direct similarity scores for pairs of nodes in evaluation benchmark datasets based on class, JC, topSim for direct evaluation in the Retrofitting notebook.
 
 ## [Basis Datasets Generation](https://github.com/usc-isi-i2/wd-similarity/blob/main/Basis%20Datasets%20Generation.ipynb), [Probase File Exploration](https://github.com/usc-isi-i2/wd-similarity/blob/main/Probase%20File%20Exploration.ipynb)
 
