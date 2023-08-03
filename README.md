@@ -38,5 +38,6 @@ Datasets Used:
 * [DBPedia Abstracts Dataset](https://downloads.dbpedia.org/repo/dbpedia/text/short-abstracts/2020.07.01/short-abstracts_lang=en.ttl.bz2)
 * [Wikidata DWD v2](https://drive.google.com/drive/u/3/folders/1OIZegxxrs_Hv2ZhDsSO-zLVARCR60P01)
 * [Sitelinks from Wikidata 2020-12-08](https://drive.google.com/drive/u/3/folders/1qbbgjo7pddMdDvQzOSeSaL6lYwj_f5gi)
+* [Wikidata Sibling and Child-Parent Data](https://drive.google.com/drive/u/1/folders/19poqPcXbLjSl5PbYogMVUWneiRb-81XO)
 
 Project Draw.IO files stored on Google Drive [here](https://drive.google.com/drive/u/3/folders/1T4NrMo7TxroIq5flWBWL5nAaFm6-XWwb)
